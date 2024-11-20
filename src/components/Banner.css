@@ -1,0 +1,49 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background: #f5f5f5;
+  }
+  
+  
+  
+  .product-card {
+    background-color: rgb(8, 8, 55);
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    width: 320px;
+    height: 100%;
+    position : relative;
+    left:50%;
+  }
+  
+  .banner-image img {
+    width: 400px;
+    position: relative;
+    left:220%;
+  }
+  .banner-products
+  {
+    position: absolute;
+  }
+  .strike
+  {
+    color: rgb(12, 57, 155);
+    position: relative;
+    left:44%;
+    
+  }
+  .element
+  {
+    display: inline-block;
+    position: relative;
+    left:44%;
+    
+  }
+  .head
+  {
+    position: absolute;
+  }
+  

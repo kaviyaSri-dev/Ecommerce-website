@@ -1,0 +1,32 @@
+.cart {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    background: #fff;
+    
+    padding: 1em;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+  }
+  
+  .cart-item img {
+    width: 50px;
+    height: 50px;
+    margin-right: 1em;
+  }
+  
+  .cart-total {
+    margin-top: 1em;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 1em;
+    text-align: center;
+  }
+  
